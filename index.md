@@ -1,9 +1,17 @@
 ## Fibonacci's Sequencer
 Jonesy Jones - ryanjones2018@u.northwestern.edu - EECS397 - Digital Music Instrument Design - Northwestern University - Professor Stephan Moore
 
+![Fibonacci's Sequencer](https://github.com/yesthisisjonesy/Fibonacci-Sequencer/blob/master/fib1.png)
+
 ### What is this?
 
-Fibonacci's Sequencer is an instrument/tower defense game hybrid programmed using Max/MSP, Javascript, and Arduino. Interacting with it takes on two different meaning of the word 'play'. The user builds a song on the playing field by picking notes and beats. The notes they select then also take on the role of a defensive fortress, firing shots at incoming waves of enemies when they are triggered. Gameplay takes place in two different phases; a building phase where the player composes their song, and an active phase when enemies enter the field and the song is played.
+Fibonacci's Sequencer is an instrument/tower defense game hybrid programmed using Max/MSP, Javascript, and Arduino. Interacting with it takes on two different meaning of the word 'play'. The user builds a song on the playing field by picking notes and beats. The notes they select then also take on the role of a defensive fortress, firing shots at incoming waves of enemies when they are triggered. Gameplay takes place in two different phases; a building phase where the player composes their song, and an active phase when enemies enter the field and the song is played. The game is played with a controller built off of an Arduino Uno, with buttons corresponding to seven notes of the C Major scale, buttons to switch between the eight beats of the looped measure, a 'Start' button, and a joystick allowing for movement as well as placement of notes.
+
+![Gameplay](https://github.com/yesthisisjonesy/Fibonacci-Sequencer/blob/master/fib3.png)
+
+![Controller](https://github.com/yesthisisjonesy/Fibonacci-Sequencer/blob/master/IMG_20190609_235224803.jpg)
+
+![Controller 2](https://github.com/yesthisisjonesy/Fibonacci-Sequencer/blob/master/IMG_20190609_235240959.jpg)
 
 ### Okay, but why?
 
@@ -25,3 +33,5 @@ This touches on one of the more difficult pieces of taking on a project like thi
 In an ideal world with unlimited time, I would have like to have built at least one other type of instrument for a user to play with. The current one is essentially based on a piano- my next intention was to build a drum machine that operated similarly. The drum beats would have acted more as area-of-effect weapons, damaging enemies that got too close, and requiring a user to think much more critically about where they were placing their notes. More choice in instrument gives another level of creativity to the user, and ideally two or more players could make music together. 
 
 Other additions would be more variety in the types of enemies, more variation in the effect of notes on these enemies, and more completely unessescary cutscenes about Fibonacci.
+
+[Watch the presentation here.](https://www.youtube.com/watch?v=BTkO_T5N4OQ)
